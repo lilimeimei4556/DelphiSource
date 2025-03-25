@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/19 10:32:25.000.714,=C:\delphi\study\Unit1.pas</Transaction>
+    <Transaction>2025/03/19 10:35:54.000.064,C:\delphi\study\俄罗斯方块\MainFrm.dfm=C:\delphi\study\Unit1.dfm</Transaction>
+    <Transaction>2025/03/19 10:35:54.000.064,C:\delphi\study\俄罗斯方块\MainFrm.pas=C:\delphi\study\Unit1.pas</Transaction>
+    <Transaction>2025/03/19 10:36:03.000.909,C:\delphi\study\俄罗斯方块\Game.dproj=C:\delphi\study\Project1.dproj</Transaction>
+    <Transaction>2025/03/20 10:19:50.000.824,=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/20 10:20:30.000.355,C:\delphi\study\俄罗斯方块\service\serviceunit.pas=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/20 16:20:59.000.761,=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/20 16:21:37.000.813,C:\delphi\study\俄罗斯方块\const\UnitConst.pas=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/21 09:54:17.000.229,=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/21 09:54:49.000.304,C:\delphi\study\俄罗斯方块\Unit1.pas=C:\delphi\study\俄罗斯方块\domain\UnitData.pas</Transaction>
+    <Transaction>2025/03/21 15:13:09.000.094,=C:\delphi\study\俄罗斯方块\Unit1.pas</Transaction>
+    <Transaction>2025/03/21 15:13:47.000.561,C:\delphi\study\俄罗斯方块\Unit1.pas=C:\delphi\study\俄罗斯方块\utils\Unit1Utils.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,25 @@
+unit Unit1Utils;
+     {*------------------------------------------------------------------------------
+       @author  万兴
+       @version 2025/03/21 1.0 Initial revision.
+       @comment   获取随机数
+     -------------------------------------------------------------------------------}
+
+interface
+
+type
+  TPublicUtils = class
+    class function GetNumberWithRound():Integer;
+  end;
+
+implementation
+
+{ TPublicUtils }
+
+class function TPublicUtils.GetNumberWithRound( ): Integer;
+begin
+
+end;
+
+end.
+

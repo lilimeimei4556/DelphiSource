@@ -1,0 +1,11 @@
+unit UnitConst;
+
+interface
+
+const
+  //сно╥╠Ё╬╟м╪ф╛╢Ф╥еб╥╬╤
+  IMAGE_BACK_GROUND:string='./resources/background';
+implementation
+
+end.
+
